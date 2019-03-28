@@ -6,7 +6,7 @@ A program to write accents using a virtual keyboard
 
 You will need
 
-Windows 
+Windows 7,8,10
 
 ## Compiling the source file
 
