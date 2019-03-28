@@ -1,4 +1,4 @@
-#winacc
+# winacc
 
 A program to write accents using a virtual keyboard
 
