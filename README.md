@@ -11,7 +11,7 @@ Windows mingw-w64 gcc (10.3.0)<BR>
 Get the last release clicking on the **Releases** button located on the **GitHUB** right panel<BR>
 or just click [here](https://github.com/uomoukko/WinACC/releases/). It's free for *personal use*<BR>
 
-  ## Todo
+## Languages
 SWE/FIN and ITA keyboards only
 
 ## Bugs
