@@ -1,21 +1,14 @@
 # winacc
-
 A program to write accents using a virtual keyboard
 
 # Prerequisites
+Windows 7,8,10,11<BR>
 
-You will need
-
-Windows 7,8,10
-
-## Compiling the source file
-
-    no compilation needed
+## Built with
+Windows mingw-w64 gcc (10.3.0)<BR>
 
 ## Todo
-
 not every char is included
 
 ## Bugs
-
-still experimental
+Please contact me for bugs/improvements
