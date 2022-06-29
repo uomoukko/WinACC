@@ -1,5 +1,7 @@
 # WinACC
-A program to write accents using a virtual keyboard
+![wacc.png](wacc.png)
+
+## A program to write accents using a virtual keyboard
 
 # Prerequisites
 Windows 7,8,10,11<BR>
