@@ -1,6 +1,6 @@
 # WinACC
 <TABLE><TR><TD>
-<p align="center"><img src="img/WinACC.png" alt="WinACC-icon" width="150" height="150"><br></p>
+<p align="center"><img src="img/WinAcc.png" alt="WinACC-icon" width="150" height="150"><br></p>
 
 <TABLE BORDER=0>
 <TR>
